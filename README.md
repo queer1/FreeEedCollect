@@ -8,7 +8,7 @@ Two modules are planned:
 1. MapReduce job for Hadoop: FreeEedCollectMR.
 2. System for distributed data collection: FreeEedCollect.
 
-1. FreeEedCollectMR.
+First let us describe FreeEedCollectMR.
 
 This module is based on the use of Apache ZooKeeper.
 
